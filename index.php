@@ -1,1 +1,1 @@
-<?= 'hello'?>
+<?$APPLICATION.AddInclude('iclude.php')?>
