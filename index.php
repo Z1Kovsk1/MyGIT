@@ -3,7 +3,5 @@
 	</head>
 	<body>
 		<div><?include 'iclude.php';?></div>
-		hgk
-		olololo
-	<body>
+	</body>
 </html>
