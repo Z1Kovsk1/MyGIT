@@ -1,1 +1,1 @@
-<div><?$APPLICATION.AddInclude('iclude.php')?></div>
+<div><?include 'iclude.php'?></div>
